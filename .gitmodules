@@ -1,6 +1,3 @@
-[submodule "colors"]
-	path = colors
-	url = https://github.com/rxi/lite-colors
 [submodule "plugins/lintplus"]
 	path = plugins/lintplus
 	url = https://github.com/liquidev/lintplus
