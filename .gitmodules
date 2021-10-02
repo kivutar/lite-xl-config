@@ -1,0 +1,15 @@
+[submodule "colors"]
+	path = colors
+	url = https://github.com/rxi/lite-colors
+[submodule "plugins/lintplus"]
+	path = plugins/lintplus
+	url = https://github.com/liquidev/lintplus
+[submodule "plugins/gitdiff_highlight"]
+	path = plugins/gitdiff_highlight
+	url = https://github.com/vincens2005/lite-xl-gitdiff-highlight
+[submodule "plugins/lsp"]
+	path = plugins/lsp
+	url = https://github.com/jgmdev/lite-xl-lsp
+[submodule "widget"]
+	path = widget
+	url = https://github.com/jgmdev/lite-xl-widgets
